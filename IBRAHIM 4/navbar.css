@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav{
+    background-color: rgb(14, 2, 2);
+}
+ul{
+    overflow: hidden;
+}
+li{
+    float: left;
+    margin: 20px;
+    list-style: none;
+}
+ul{
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top:-68px;
+}
+a{
+    color: blanchedalmond;
+    font-size: 20px;
+    text-decoration: none;
+}
+.logo img{
+    height: 60px;
+}
+button{
+    padding: 10px;
+    margin-left: 550px;
+    background-color: black;
+    color: white;
+    border:2px solid white ;
+ font: size 20px; 
+ border-radius: 15px;
+}
+
